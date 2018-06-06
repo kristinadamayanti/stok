@@ -1,0 +1,17 @@
+{
+    "name" : "aikibo/stok-app",
+    "type" : "project",
+    "authors" : [
+        {
+            "name" : "kristina",
+            "email" : "kristina.damayanti18@gmail.com",
+            "role" : "programmer"
+        }, {
+        "name" : "cici"
+    }
+],
+"require": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "version": "0.5"
+}
